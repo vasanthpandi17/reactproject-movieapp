@@ -1,4 +1,4 @@
-const GenreFilter = ({ genres = [], selectedGenre, onChange }) => {
+const Genrefilter = ({ genres = [], selectedGenre, onChange }) => {
   return (
     <div className="flex justify-center mt-20">
       <select
