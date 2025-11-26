@@ -20,4 +20,4 @@ const Genrefilter = ({ genres = [], selectedGenre, onChange }) => {
   );
 };
 
-export default GenreFilter;
+export default Genrefilter;
